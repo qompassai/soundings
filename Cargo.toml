@@ -1,0 +1,8 @@
+[package]
+name = "soundings"
+version = "0.1.0"
+edition = "2021"
+description = "Soundings: a lightweight scheduler for heterogeneous GPU/CPU workstations - capability-aware leases with memory budgets, TTLs, and a fail-closed launcher. Name reservation; implementation in development."
+license = "Apache-2.0"
+keywords = ["gpu", "scheduler", "lease", "nvml", "workstation"]
+categories = ["command-line-utilities"]
